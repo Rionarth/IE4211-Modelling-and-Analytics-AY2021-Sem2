@@ -8,4 +8,4 @@ In this project, you need to find patterns from Data-train.csv and predict the s
 
 # Thanks
 
-Xueqi, Ruijia, LaiSha.
+Xueqi, Ruijia, LaiSha. Super carry
